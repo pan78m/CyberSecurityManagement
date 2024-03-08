@@ -337,7 +337,6 @@ Figure 7: New Item added successfully ![ref1]
 
 Figure 8: User information![ref1]
 
-14 | P a g e 
 
 - When the admin or others user enters the  section, he then can easily recover his/her password respect to email and security Question answer. Here he can update password data. 
 
